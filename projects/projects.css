@@ -1,0 +1,60 @@
+@import url(http://fonts.googleapis.com/css?family=Buenard:400,700|Yanone+Kaffeesatz:400,700);
+
+.container {
+	max-width: 1000px;
+}
+body {
+  padding-top: 50px;
+  font-family: 'Bitter', serif;
+  font-size: 16px; 
+}
+.starter-template {
+  padding: 30px 15px;
+  text-align: left;
+  font-family: "Buenard", serif;
+}
+
+.lead{
+	font-size:19px;
+}
+
+.link{
+	font-size:19px;
+	font-weight: bold;
+}
+
+
+.bottom {
+    width: 80%;
+    text-align: center;
+    color: #5b5b5b;
+    font-family: "Buenard", serif;
+    font-weight: normal;
+    font-size: 14px;
+    padding: 20px 0 50px;
+}
+
+.bottom hr {
+    display: block;
+    width: 14%;
+    margin: 40px auto;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,0.15);
+    box-sizing: content-box;
+    height: 0;
+}
+
+.bottom p {
+    margin: 0;
+}
+
+.bottom a {
+    background-position: 0 14px;
+    font-weight: 700;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 11px;
+}
