@@ -2,18 +2,25 @@
 
 .container {
     max-width: 910px;
+/*     font-family: "Buenard", serif; */
+}
+
+nav {
+    font-family: "Bitter", serif;
 }
 
 body {
   padding-top: 50px;
-  font-family: 'Bitter', serif;
-  font-size: 14px; 
+  font-family: "Buenard", serif; 
+  font-size: 16px; 
 }
 .starter-template {
   padding: 30px 15px;
   text-align: left;
-  font-family: "Source Sans Pro", "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;;
+  font-family: "Buenard", serif;
+  
 }
+/* "Source Sans Pro", "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;*/ 
 
 .lead{
     font-size:18px;
