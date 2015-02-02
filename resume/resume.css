@@ -1,13 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=Buenard:400,700|Yanone+Kaffeesatz:400,700);
 
 .container {
-    max-width: 1000px;
+    max-width: 910px;
 }
 
 body {
   padding-top: 50px;
   font-family: 'Bitter', serif;
-  font-size: 16px; 
+  font-size: 14px; 
 }
 .starter-template {
   padding: 30px 15px;
@@ -104,9 +104,10 @@ section ul li span {
 
 .date {
     width: 130px;
-    margin-right: 20px;
+    margin-right: 0;
     text-align: right;
     float: right;
+    font-size: 12px;
 }
 
 .position {
